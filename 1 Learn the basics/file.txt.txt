@@ -1,0 +1,19 @@
+In this section go through I'll just brief the contents you need to go through
+Learn Basics of Programming Language
+1>User Input/Output
+2>Data Types
+3>If Else statements
+4>Switch Statement
+5>What are arrays,strings?
+6>for loops,while loops
+7>functions
+8>Time Complexity Basics
+
+Then go through some pattern problems 
+and then go through STL/Collection
+
+Learn Basic Math
+
+Learn Basic Recursion
+
+Learn Basic Hashing
